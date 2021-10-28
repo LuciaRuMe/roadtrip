@@ -3,7 +3,7 @@ This is a proyect I had to do at the end of the Data Science bootcamp I did this
 
 At the moment all explanation in code is in Spanish but I'll eventually upload an English version.
 
-For now, there is this explanation of it:
+For now, there is this little explanation of it:
 
 It is a Genetic Algorithm trying to solve a Travelling Salesman Problem. 
 
